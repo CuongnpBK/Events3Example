@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Events3Example</string>
+    <string name="button_prompt">Random Color</string>
+</resources>
